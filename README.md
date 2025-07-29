@@ -43,18 +43,9 @@ That's exactly what databases do with digital information! This course teaches y
 
 You'll learn to "speak" to these databases using special languages (SQL and NoSQL queries) and build real projects through labs, assignments, and a final case study.
 
-### Course Expectations
-
--   **What You'll Do**: Over 12 weeks, you'll complete:
-    -   **5 Lab Activities** (3% each, total 15%): Practical exercises to build skills.
-    -   **2 Assignments** (10% each, total 20%): In-depth tasks to apply concepts.
-    -   **2 Tests** (Midterm 20%, Final 20%): Assessments of your understanding.
-    -   **Case Study** (25%): A final project to design and analyze a database.
--   **Review the Course Outline**: Check the detailed syllabus to understand the schedule and expectations.
-
 ### Software Requirements
 
--   **Operating System**: Windows is recommended for local development, but you can use other systems like macOS or Linux. Note that technical support is only provided for Windows.
+-   **Operating System**: Windows is recommended for local development, but you can use other systems like macOS or Linux.
 -   **Tools**:
     -   **PgAdmin**: Used for SQL and relational databases (like PostgreSQL).
     -   **MongoDB**: Used for NoSQL databases.
